@@ -2,7 +2,7 @@
   <h1>Welcome to my profile</h1>
 </div>
 <p align="center">
-  <img src="[https://media.tenor.com/Bn8sxwFw-F4AAAAi/catjam-cat.gif](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjl5o78zc78mf1.gif)" width=200p height=200p />
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjl5o78zc78mf1.gif" width=200p height=200p />
 </p>
  <p align="center">
    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
